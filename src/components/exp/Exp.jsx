@@ -84,7 +84,7 @@ const Services = () => {
             building user interfaces, managing databases, and integrating APIs to create 
             seamless user experiences.
           </p>
-          <a href="YOUR_LINKEDIN_POST_URL_FOR_FULL_STACK_INTERN" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/posts/bhaveshsawant20_certificate-full-stack-development-cipherbyte-activity-7254363358391402496-R3DW?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">
             <button>Go</button>
           </a>
         </motion.div>
